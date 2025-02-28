@@ -166,7 +166,7 @@ nav ul li:hover ul {
 
 overflow: hidden;
 
-width: 140%;
+width: 100%;
   
 margin-left: 15px;
 
@@ -201,6 +201,6 @@ color: black;
 
 }
 #frameset {
-	width: 140%;
+	width: 100%;
 	margin: 15px;
 }
