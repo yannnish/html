@@ -1,0 +1,19 @@
+header {
+	 background-color: #E0FFFF;
+}
+footer {
+	 background-color: #ADD8E6;
+}
+.header .title-bar {
+	background-color: #FFF;
+}
+#wrap {
+	
+	background-color: #ADD8E6;
+}
+.submenu.menu.vertical {
+	background-color: #ADD8E6;
+}
+.row.expanded.callout.secondary {
+	background-color: #ADD8E6;
+}
